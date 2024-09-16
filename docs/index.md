@@ -50,7 +50,7 @@ The main goal of this project is to:
 
 ### Project Details
 
-- **Jupyter Notebook**: [Download the notebook here](./docs/music-recommendation-system.ipynb).
+- **Jupyter Notebook**: [Download the notebook here](./music-recommendation-system.ipynb).
 - **Dataset**: [Download the dataset here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
 ---
@@ -117,8 +117,8 @@ The main goal of this project is to:
 
 ### Access the Project
 
-- **View the Jupyter Notebook**: [music-recommendation-system.ipynb](./docs/music-recommendation-system.ipynb)
-- **HTML Version of the Project**: [music-recommendation-system.html](./docs/music-recommendation-system.html)
+- **View the Jupyter Notebook**: [music-recommendation-system.ipynb](./music-recommendation-system.ipynb)
+- **HTML Version of the Project**: [music-recommendation-system.html](./music-recommendation-system.html)
 
 ---
 
